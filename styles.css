@@ -1,0 +1,32 @@
+body{
+  background-color:#e3fdfd;
+  text-align:center;
+
+}
+
+.top-cloud{
+  position:absolute;
+  right:200px;
+}
+
+.bottom-cloud{
+  position:absolute;
+left:200px;
+}
+
+h1{
+  font-family: 'PT Sans Narrow', sans-serif;
+color:#66BFBF;
+}
+
+.profile-img{
+  width:25%;
+  height:250px;
+  border-radius:100%;
+}
+h2{
+line-height: 2;
+}
+h3{
+  color:#11999E;
+}
